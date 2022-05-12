@@ -16,7 +16,7 @@ In appsettings.json file of the project, under AzureAD section, enter the values
     "Instance": "https://login.microsoftonline.com/",
     "TenantId": "",
     "ClientId": "",
-    "Audience": "sam as clientID"
+    "Audience": "same as clientID"
   },
 ```
 The sample controller has decorators for Autherization
